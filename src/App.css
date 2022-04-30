@@ -1,0 +1,10 @@
+.app-container{
+    box-shadow: 0 0 5px 5px #fff;
+    display: flex;
+}
+.tab-section{
+    background-color: #fff;
+}
+.tab-section>div{
+    padding: 1%;
+}

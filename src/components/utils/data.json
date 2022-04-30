@@ -1,0 +1,111 @@
+{
+    "education": [
+        {
+            "standard": "B.Tech",
+            "period": "2013 - 2017",
+            "stream": "Computer Science (JNTU-Hyderabad)"
+        },
+        {
+            "standard": "Class XII",
+            "period": "2011 - 2013",
+            "stream": "Siddhartha jr College, Vikarabad"
+        },
+        {
+            "standard": "Class X",
+            "period": "2010 - 2011",
+            "stream": "Z.P High School, Kowkuntla"
+        }
+    ],
+    "employment": [
+        {
+            "company": "Infosys Limited",
+            "period": "2019 - Present",
+            "role": "Specialist programmer",
+            "desc": "● Worked on creating timeline for technicians to track their schedules, request time-off, track requests ● Involved in creating logging framework for react applications to track and report application crashes ● Worked on feature to create/view tech notes in order to understand and complete the job ● Worked on an application to scan and validate QR Codes, populate the data and send to the server. support manual entry to construct JSON and show in UI. ● Worked on Storybook to create new react components by following the micro frontend architecture ● Worked on unit test cases and automation test cases to ensure code meet quality standards ● followed TDD with safe agile practices"
+        },
+        {
+            "company": "Cognizant India Pvt ltd",
+            "period": "2018 - 2019 (1.6 years)",
+            "role": "Programmer Analyst",
+            "desc": "● Developing Reusable, Responsive and highly Accessible components ● worked on form validations to make security not compromised ● Resolving the Issue given by the Business Client within SLA ● Helped team to automate password reset for a period of time and xml report generator to segregate individual report based on given data"
+        }
+    ],
+    "contact": [
+        {
+            "label": "email",
+            "value": "krishnareddy.nancheri@gmail.com"
+        },
+        {
+            "type": "link",
+            "label": "linkedIn",
+            "value": "https://linkedin.com/in/krishnanancheri"
+        },
+        {
+            "label": "phone",
+            "value": "91-XXX-XXX-XXXX"
+        },
+        {
+            "type": "link",
+            "label": "HackerRank Profile",
+            "value": "https://hackerrank.com/krishnareddy_n"
+        }
+    ],
+    "skills": [
+        {
+            "type": "programming",
+            "technology": [
+                {
+                    "name": "JavaScript",
+                    "rating": 7
+                },
+                {
+                    "name": "Java",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "type": "backend",
+            "technology": [
+                {
+                    "name": "Node Js",
+                    "rating": 6
+                },
+                {
+                    "name": "Mongo DB",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "type": "frontend",
+            "technology": [
+                {
+                    "name": "HTML",
+                    "rating": 6
+                },
+                {
+                    "name": "CSS",
+                    "rating": 6
+                },
+                {
+                    "name": "React",
+                    "rating": 6
+                },
+                {
+                    "name": "Redux",
+                    "rating": 6
+                }
+            ]
+        },
+        {
+            "type": "devtools",
+            "technology": [
+                {
+                    "name": "Selenium",
+                    "rating": 4
+                }
+            ]
+        }
+    ]
+}

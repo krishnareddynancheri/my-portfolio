@@ -1,0 +1,20 @@
+.tab-item {
+    display: flex;
+    min-height: 100px;
+    min-width: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.tab-item:hover {
+    color: #00627ada;
+}
+
+.tab-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

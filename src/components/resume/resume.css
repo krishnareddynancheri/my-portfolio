@@ -1,0 +1,29 @@
+.resume-container {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.emp-container {
+    border-left: 1px solid #000;
+    margin: 10px 0px;
+}
+
+.emp-container>div {
+    padding: 10px;
+}
+
+.company-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.responsibilities {
+    opacity: 0.7;
+    font-size: 14px;
+}
+
+@media only screen and (min-width:1024px) {
+    .resume-container {
+        grid-template-columns: auto auto;
+    }
+}

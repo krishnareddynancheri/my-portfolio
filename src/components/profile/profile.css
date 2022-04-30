@@ -1,0 +1,15 @@
+.profile-container {
+    display: grid;
+    background-color: #114d78;
+    color: #fff;
+    grid-template-columns: auto auto;
+    column-gap: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.dp {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
