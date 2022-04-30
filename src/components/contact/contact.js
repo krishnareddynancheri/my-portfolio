@@ -1,8 +1,10 @@
 import React from 'react'
 import data from '../utils/data.json';
+import "./contact.css";
+
 export const Contact = () => {
   return (
-    <div style={{ display: "grid", gridTemplateColumns: "1fr" }}>
+    <div className='contact-container' style={{ display: "grid", gridTemplateColumns: "1fr" }}>
       <div style={{ fontWeight: "bold" }}>Contact Info</div>
       {data.contact.map(i => {
         return (

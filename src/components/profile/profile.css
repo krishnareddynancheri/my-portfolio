@@ -13,3 +13,10 @@
     width: 100px;
     border-radius: 100%;
 }
+
+@media screen and (max-width: 427px) {
+    .profile-container {
+        grid-template-columns: auto;
+        text-align: center;
+    }
+}
