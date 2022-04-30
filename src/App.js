@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import { Contact } from './components/contact/contact';
 import { Navigation } from './components/navigation/navigation';
@@ -7,6 +7,10 @@ import { Resume } from './components/resume/resume';
 
 function App() {
   const [selectedtab, setSelectedtab] = useState(0);
+  useEffect(() => {
+    document.title = "krishna";
+  }, [])
+
   function getTabData() {
     switch (selectedtab) {
       case 0:
