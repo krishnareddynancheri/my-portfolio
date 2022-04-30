@@ -6,7 +6,7 @@ import { Profile } from './components/profile/profile';
 import { Resume } from './components/resume/resume';
 
 function App() {
-  const [selectedtab, setSelectedtab] = useState(2);
+  const [selectedtab, setSelectedtab] = useState(0);
   function getTabData() {
     switch (selectedtab) {
       case 0:
