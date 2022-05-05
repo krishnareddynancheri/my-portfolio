@@ -32,16 +32,16 @@
     ],
     "contact": [
         {
-            "label": "email",
+            "label": "Email",
             "value": "krishnareddy.nancheri@gmail.com"
         },
         {
             "type": "link",
-            "label": "linkedIn",
+            "label": "LinkedIn",
             "value": "https://linkedin.com/in/krishnanancheri"
         },
         {
-            "label": "phone",
+            "label": "Phone",
             "value": "91-XXX-XXX-XXXX"
         },
         {
