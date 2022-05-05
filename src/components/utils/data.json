@@ -52,7 +52,7 @@
     ],
     "skills": [
         {
-            "type": "programming",
+            "type": "Programming Landuages",
             "technology": [
                 {
                     "name": "JavaScript",
@@ -65,20 +65,7 @@
             ]
         },
         {
-            "type": "backend",
-            "technology": [
-                {
-                    "name": "Node Js",
-                    "rating": 6
-                },
-                {
-                    "name": "Mongo DB",
-                    "rating": 5
-                }
-            ]
-        },
-        {
-            "type": "frontend",
+            "type": "Frontend Skills",
             "technology": [
                 {
                     "name": "HTML",
@@ -95,12 +82,38 @@
                 {
                     "name": "Redux",
                     "rating": 6
+                },
+                {
+                    "name": "Typescript",
+                    "rating": 5
                 }
             ]
         },
         {
-            "type": "devtools",
+            "type": "Backend Skills",
             "technology": [
+                {
+                    "name": "Node Js",
+                    "rating": 5
+                },
+                {
+                    "name": "Springboot",
+                    "rating": 4
+                },
+                {
+                    "name": "Mongo DB",
+                    "rating": 5
+                }
+            ]
+        },
+        
+        {
+            "type": "Other Skills",
+            "technology": [
+                {
+                    "name": "SVN",
+                    "rating": 6
+                },
                 {
                     "name": "Selenium",
                     "rating": 4
